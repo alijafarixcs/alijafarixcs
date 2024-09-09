@@ -23,7 +23,7 @@ I am Ali Jafari and I am a Data Scientist/Software Developer and Living in Germa
   
 
 Connect with me on :
-
+<a href="https://www.youtube.com/@AJBrowse"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=red"></a>
 <a href="https://www.linkedin.com/in/ali-jafari-a08386157/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
  
