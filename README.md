@@ -1,43 +1,48 @@
 ## Hi there 👋
 
-<!--
-**alijafarixcs/alijafarixcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Ali Jafari**, a passionate **Software Architect/Developer** and **Machine Learning Enthusiast** currently living in Germany 🇩🇪.
 
-Here are some ideas to get you started:
+### 🚀 What I Do:
+- **Software Development** with a focus on **ASP.NET**.
+- Architecting systems using:
+  - **Domain-Driven Design (DDD)**.
+  - **Command Query Responsibility Segregation (CQRS)**.
+  - **Clean Architecture**.
+  - **Microservices** for scalable and maintainable solutions.
+- Exploring **Machine Learning** and **Data Science** for innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m Learning:
+- Advanced techniques in **Machine Learning** and **Data Science**.
+- Continuous improvement in **Cloud Engineering** and **DevOps** practices.
 
-
-I am Ali Jafari and I am a Data Scientist/Software Developer and Living in Germany 🐠.
-
-- Currently working as a Data Scientist
-- Learning and sharing knowledge via teaching
-  
-
-Connect with me on :
+### 🤝 Let’s Connect!
+I’m always open to collaborating on exciting projects or sharing insights.  
 <a href="https://www.youtube.com/@AJBrowse"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=red"></a>
 <a href="https://www.linkedin.com/in/ali-jafari-a08386157/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
- 
 
+---
 
-**Things around which daily work life revolves:**  
-- Python 🐍, Pandas, PyTorch, Tensorflow, Scikit-learn, Matplotlib, Seaborn, Keras
-- NLP, Huggingface 🤗, Word2Vec, Fasttext
-- SQL, PostgreSQL, DBeaver
+### 🛠 Tools and Technologies:
+**Backend:**
+- ASP.NET Core, C#, Entity Framework
 
+**Architecture:**
+- DDD, CQRS, Clean Architecture, Microservices
 
-- Docker, Kubernetes, MLFlow, Evidently, Prefect 📊
-- AWS, Google Cloud ☁
+**Machine Learning/Data Science:**
+- Python 🐍, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- NLP, Huggingface 🤗, Word2Vec, FastText
+- Matplotlib, Seaborn, Plotly for data visualization
 
+**DevOps:**
+- Docker, Kubernetes, CI/CD pipelines, Terraform
 
---- 
+**Cloud:**
+- AWS, Azure, Google Cloud ☁
+
+**Database:**
+- SQL Server, PostgreSQL, Redis
+
+---
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alijafarixcs.alijafarixcs)
