@@ -19,6 +19,8 @@ I am **Ali Jafari**, a passionate **Software Architect/Developer** and **Machine
 I’m always open to collaborating on exciting projects or sharing insights.  
 <a href="https://www.youtube.com/@AJBrowse"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=red"></a>
 <a href="https://www.linkedin.com/in/ali-jafari-a08386157/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://t.me/alijafarixcs"><img alt="telegram" title="telegram" src="https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 ---
 
